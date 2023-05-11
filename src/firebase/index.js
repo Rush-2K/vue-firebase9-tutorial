@@ -5,7 +5,7 @@ import { getFirestore } from "firebase/firestore";
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // // Your web app's Firebase configuration
-const test_api_key = 'testapikey'
+const test_api_key = 'testapikey1'
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
